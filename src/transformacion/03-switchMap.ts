@@ -1,6 +1,6 @@
 import { ajax, AjaxError } from 'rxjs/ajax';
 import { catchError, map, of, fromEvent, debounceTime, pluck, mergeAll, Observable, mergeMap, switchMap } from 'rxjs';
-import { GithubUsersResp, GitHubUser } from './interfaces/github-user.interface';
+import { GithubUsersResp, GitHubUser } from '../interfaces/github-user.interface';
 
 
 // Referencias 
