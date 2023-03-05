@@ -82,9 +82,9 @@ Estas son las instrucciones más usadas en RXJS
 * 06-forkJoin: Deprecado. Al completarse los observables, emite los últimos valores 
 
 ## Ejercicios
-*01-capitalizar:  from, map 
-*02-filter y reduce: filter, from, reduce
-*03-random y sincronización: interval, Subject, take, map
-*04-cuenta atrás: interval, map, take
-*05-combinar-concadenar: interval, timer, combineLatest, map, take
-*06-starWars: ajax, switchMap, map, zip, of
+* 01-capitalizar:  from, map 
+* 02-filter y reduce: filter, from, reduce
+* 03-random y sincronización: interval, Subject, take, map
+* 04-cuenta atrás: interval, map, take
+* 05-combinar-concadenar: interval, timer, combineLatest, map, take
+* 06-starWars: ajax, switchMap, map, zip, of
